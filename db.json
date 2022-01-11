@@ -1,57 +1,57 @@
 {
 	"roles": [
     {
-    "user": "alex",
-    "pass":"admin123",
-    "rol":"Admin",    
-    "full_name":"Daniel Vélez Miranda",
-    "img": "https://www.dzoom.org.es/wp-content/uploads/2010/09/retrato-fondo-profundidad-campo-734x489.jpg",
-    "mail":"danvelez@gmail.com"
+    "user": "Alex",
+    "pass":"alex123",
+    "rol":"Administrador",    
+    "full_name":"Andrango Catota Alex Wilfrido",
+    "img": "https://lh3.googleusercontent.com/fife/AAWUweUKZUHDS4rIQ2OJJrW5lWAzYYPneitD6H6Anl2UWHLHvxik0bpv4CmAY3ueWddUTIxwpjAsJKw493-sHwMSS5B8OuJBBbH-NSIFziUab5egLp4StNXsOdlXlGHZU93H9kuzT9LHQBbPitJC4PRcONUGSnQZ6d89KR1gQdmRvshXYTIYzfJ9MFy10lErh31XwJmtEr0dacATJAvred3lhxgBV6Fcc-mvmTK1pbFvcxcFZQfW2dNV4xoEEc1f7PyMJkxg0c_eaVmOBPTgZ8C_pfRRuWRGXHYCq3qMN6O38FkVubmmjHswberxpoyL_wPj_lz4hCw8PaN8IbXQ6SI9g1ia82gxnfuB2IVSahzMsJZM3eyIiwQehSvWdjj4M_o1EXn2T7zgO7gS78jwIkcPaTxXJrL5b12WjGzVHhD2nmm8gxUYOln0fS3g2_xksydkTW8oGjffEdHPVhzfqEe-bE3PAiuHKt7KYBFpDVt5Okzt-5XN0i7QqW_LiM0ym2QVSsEsm0YcLllW78ELpcZD3HZAdu4gjYCVSuWZ0tjyZFRrfDTSdaLfgJoXA2jUePYiBOcqbSlD85GeEKPnRyI9R8AexbtZ8kmbLY4AOG7gFqyQX_aRh9gOL4IlgptnL9QuhKWROEwNS4r17AUkSQbTmhfOk9lV7vufcAwICA15DQvQbqRy_U25fVi-L5AsspspBqieW1KaZAIzsGsGusWMnJE9EyxPS8hasU3JFRa1TiHy_tk=s83-c",
+    "mail":"alex.andrango2016@uteq.edu.ec"
     },
     
     {
-    "user": "marcadena",
-    "pass":"cliente123",
+    "user": "Mikaela",
+    "pass":"Mika123",
     "rol":"Cliente",    
-    "full_name":"María Cadena Loor",
-    "img": "https://www.pinclipart.com/picdir/middle/8-81886_big-image-imagen-de-usuario-mujer-clipart.png",
-    "mail":"marcadena@gmail.com"
+    "full_name":"Mikaela Fernandez",
+    "img": "https://thumbs.dreamstime.com/b/expresi%C3%B3n-de-la-cara-mujer-hermosa-130280350.jpg",
+    "mail":"MikaelaFernandez@gmail.com"
     },
 
     {
-    "user": "javfranco",
-    "pass":"vendedor",
-    "rol":"Vendedor",    
-    "full_name":"Javier Franco Quiroz",
-    "img": "https://png.pngtree.com/element_our/png_detail/20181206/avatar-vector-icon-png_262117.jpg",
-    "mail":"javfranco@gmail.com"
+    "user": "Nicol",
+    "pass":"nicol123",
+    "rol":"Vendedora",    
+    "full_name":"Nicol Shina Vergara",
+    "img": "https://cdn-0.somosmamas.com.ar/wp-content/uploads/2019/12/maquillaje-para-cabello-negro-modelos.jpg",
+    "mail":"ShinaNicol@gmail.com"
     }        
   ],
 	
 	"roles2": [{
 		"administrador": [{
-			"user": "alex",
-			"pass": "admin123",
-			"rol": "Admin",
-			"full_name": "Daniel Vélez Miranda",
-			"img": "https://www.dzoom.org.es/wp-content/uploads/2010/09/retrato-fondo-profundidad-campo-734x489.jpg",
-			"mail": "danvelez@gmail.com"
+		    "user": "Alex",
+		    "pass":"alex123",
+		    "rol":"Administrador",    
+		    "full_name":"Andrango Catota Alex Wilfrido",
+		    "img": "https://lh3.googleusercontent.com/fife/AAWUweUKZUHDS4rIQ2OJJrW5lWAzYYPneitD6H6Anl2UWHLHvxik0bpv4CmAY3ueWddUTIxwpjAsJKw493-sHwMSS5B8OuJBBbH-NSIFziUab5egLp4StNXsOdlXlGHZU93H9kuzT9LHQBbPitJC4PRcONUGSnQZ6d89KR1gQdmRvshXYTIYzfJ9MFy10lErh31XwJmtEr0dacATJAvred3lhxgBV6Fcc-mvmTK1pbFvcxcFZQfW2dNV4xoEEc1f7PyMJkxg0c_eaVmOBPTgZ8C_pfRRuWRGXHYCq3qMN6O38FkVubmmjHswberxpoyL_wPj_lz4hCw8PaN8IbXQ6SI9g1ia82gxnfuB2IVSahzMsJZM3eyIiwQehSvWdjj4M_o1EXn2T7zgO7gS78jwIkcPaTxXJrL5b12WjGzVHhD2nmm8gxUYOln0fS3g2_xksydkTW8oGjffEdHPVhzfqEe-bE3PAiuHKt7KYBFpDVt5Okzt-5XN0i7QqW_LiM0ym2QVSsEsm0YcLllW78ELpcZD3HZAdu4gjYCVSuWZ0tjyZFRrfDTSdaLfgJoXA2jUePYiBOcqbSlD85GeEKPnRyI9R8AexbtZ8kmbLY4AOG7gFqyQX_aRh9gOL4IlgptnL9QuhKWROEwNS4r17AUkSQbTmhfOk9lV7vufcAwICA15DQvQbqRy_U25fVi-L5AsspspBqieW1KaZAIzsGsGusWMnJE9EyxPS8hasU3JFRa1TiHy_tk=s83-c",
+		    "mail":"alex.andrango2016@uteq.edu.ec"
 		}],
 		"cliente": [{
-			"user": "marcadena",
-			"pass": "cliente123",
-			"rol": "Cliente",
-			"full_name": "María Cadena Loor",
-			"img": "https://www.pinclipart.com/picdir/middle/8-81886_big-image-imagen-de-usuario-mujer-clipart.png",
-			"mail": "marcadena@gmail.com"
+		    "user": "Mikaela",
+		    "pass":"Mika123",
+		    "rol":"Cliente",    
+		    "full_name":"Mikaela Fernandez",
+		    "img": "https://thumbs.dreamstime.com/b/expresi%C3%B3n-de-la-cara-mujer-hermosa-130280350.jpg",
+		    "mail":"MikaelaFernandez@gmail.com"
 		}],
-		"vendedor": [{
-			"user": "javfranco",
-			"pass": "vendedor",
-			"rol": "Vendedor",
-			"full_name": "Javier Franco Quiroz",
-			"img": "https://png.pngtree.com/element_our/png_detail/20181206/avatar-vector-icon-png_262117.jpg",
-			"mail": "javfranco@gmail.com"
+		"vendedora": [{
+		    "user": "Nicol",
+		    "pass":"nicol123",
+		    "rol":"Vendedora",    
+		    "full_name":"Nicol Shina Vergara",
+		    "img": "https://cdn-0.somosmamas.com.ar/wp-content/uploads/2019/12/maquillaje-para-cabello-negro-modelos.jpg",
+		    "mail":"ShinaNicol@gmail.com"
 		}]
 	}]
 
